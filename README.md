@@ -17,6 +17,7 @@
 7. Created and edited this README.md file
 8. Committed and pushed changes to GitHub
 
+
 ## Issues Faced & Solutions
 
 ### Issue 1: Claude Code Login Requires Paid Subscription
